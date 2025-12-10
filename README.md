@@ -1,3 +1,4 @@
 # Northern-White-Rhinoceros-Annotation
+
 Manual curation for improved genome annotation of the functionally extinct northern white rhinoceros (Ceratotherium simum cottoni)
 The northern white rhinoceros (Ceratotherium simum cottoni) genome and annotation were previously published, but the annotation contained few genes, with many annotation misalignments, and nomenclature not matching HGNC/VGNC naming conventions, making transcriptional studies very difficult. We used in vivo collected granulosa cells for RNA sequencing and de novo transcript assembly through StringTie to identify all nucleotide gene sequences in our samples. Through extensive manual curation we were able to generate a greatly improved genome annotation, increasing gene numbers by 81%. This will greatly enable researchers in this field to utilize the genome and annotation to complete transcriptional studies with this species.
